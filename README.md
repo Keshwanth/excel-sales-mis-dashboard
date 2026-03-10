@@ -19,7 +19,7 @@ The dashboard analyzes sales data and provides insights into revenue performance
 - Data formatting
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ## Insights
 - Laptop is the highest revenue generating product
